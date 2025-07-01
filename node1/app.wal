@@ -2,3 +2,10 @@
 {"op":"SET","key":"persistence_test","value":"this must survive a restart"}
 {"op":"SET","key":"cluster","value":"the cluster is fully operational"}
 {"op":"SET","key":"persistence_test","value":"this must survive a restart"}
+{"op":"SET","key":"cluster","value":"the cluster is fully operational"}
+{"op":"SET","key":"persistence_test","value":"this must survive a restart"}
+{"op":"SET","key":"cluster","value":"the cluster is fully operational"}
+{"op":"SET","key":"persistence_test","value":"this must survive a restart"}
+{"op":"TX_COMMIT","write_set":[{"Key":"tx_key1","Value":"atomic write 1"},{"Key":"tx_key2","Value":"atomic write 2"}]}
+{"op":"SET","key":"mykey","value":"hello world"}
+{"op":"DELETE","key":"mykey"}
