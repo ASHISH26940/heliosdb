@@ -1,0 +1,4 @@
+{"op":"SET","key":"cluster","value":"the cluster is fully operational"}
+{"op":"SET","key":"persistence_test","value":"this must survive a restart"}
+{"op":"SET","key":"cluster","value":"the cluster is fully operational"}
+{"op":"SET","key":"persistence_test","value":"this must survive a restart"}

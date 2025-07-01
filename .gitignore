@@ -1,0 +1,25 @@
+# Binaries
+/bin/
+/build/
+/dist/
+
+# Dependency dirs
+/pkg/
+/vendor/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Go stuff
+*.exe
+*.test
+*.out
+*.log
+
+# Module cache (optional, if you cache in repo)
+go.sum

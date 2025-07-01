@@ -1,0 +1,7 @@
+node_id = "node2"
+host = "localhost"
+port = 8082
+raft_port = 9082
+data_dir = "."
+# Add the Raft addresses of the other nodes
+peers = ["localhost:9081", "localhost:9083"]
