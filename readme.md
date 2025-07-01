@@ -1,11 +1,3 @@
-Of course. Here is a comprehensive `README.md` file for your project, along with a guide on how to create a Postman test suite to validate its functionality.
-
------
-
-### \#\# 1. `README.md` File
-
-You can copy and paste the following content directly into a `README.md` file in the root of your `heliosdb` project.
-
 ````markdown
 # HeliosDB - A Distributed ACID Key-Value Store in Go
 
